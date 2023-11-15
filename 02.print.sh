@@ -1,5 +1,6 @@
 echo Hello world
 
+
 # Color Syntax: echo -e "\e[COLm MESSAGE \e[0m"
 # echo -e , -e is to allow colors
 # Double quotes are mandatory, Single quotes can be used but not preferred.
